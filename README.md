@@ -2,7 +2,7 @@
 
 This repository contains Terraform code to provision a demo environment for the article **[Transforming Amazon API Gateway Access Log Into Prometheus Metrics](https://community.aws/posts/transforming-amazon-api-gateway-access-log-into-prometheus-metrics)**
 
-
+Grafana dashboard: [Amazon API Gateway](https://grafana.com/grafana/dashboards/19112-amazon-api-gateway/)
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
