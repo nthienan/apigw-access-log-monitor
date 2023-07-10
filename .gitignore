@@ -1,0 +1,9 @@
+**/.terraform
+**/*.tfstate
+**/*.tfstate.backup
+**/*tfplan.binary
+**/*tfplan.json
+**/*-debug.tfvars.json
+builds
+
+**/.DS_Store
